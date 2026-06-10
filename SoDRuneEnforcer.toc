@@ -1,0 +1,9 @@
+﻿## Interface: 11505
+## Title: SoD Rune Enforcer
+## Notes: Enforces rune usage per phase for Season of Discovery raids.
+## Author: Gemini CLI
+## Version: 1.1
+## SavedVariables: SoDRuneEnforcerDB
+
+RuneData.lua
+Core.lua
