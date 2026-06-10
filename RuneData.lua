@@ -120,19 +120,19 @@ addon.RuneData = {
     ["Druid"] = {
         [1] = {
             ["Chest"] = {"Fury of Stormrage", "Living Seed", "Survival of the Fittest", "Wild Strikes"},
-            ["Hands"] = {"Mangle", "Sunfire", "Wild Growth"},
-            ["Legs"] = {"Lifebloom", "Savage Roar", "Skull Bash", "Starsurge"}
+            ["Hands"] = {"Lacerate", "Mangle", "Skull Bash", "Sunfire", "Wild Growth"},
+            ["Legs"] = {"Lifebloom", "Savage Roar", "Starsurge"}
         },
         [2] = {
             ["Waist"] = {"Berserk", "Eclipse", "Nourish"},
             ["Feet"] = {"Dreamstate", "King of the Jungle", "Survival Instincts"}
         },
         [3] = {
-            ["Head"] = {"Elune's Fires", "Gore", "Improved Barkskin"},
-            ["Wrist"] = {"Efflorescence", "Improved Frenzied Regeneration", "Tree of Life"}
+            ["Head"] = {"Gale Winds", "Gore", "Improved Barkskin"},
+            ["Wrist"] = {"Efflorescence", "Elune's Fires", "Improved Frenzied Regeneration"}
         },
         [4] = {
-            ["Back"] = {"Improved Swiping", "Starfall", "Tree of Life"}
+            ["Back"] = {"Improved Swipe", "Starfall", "Tree of Life"}
         }
     },
     ["Mage"] = {
@@ -177,6 +177,7 @@ addon.RuneData = {
 addon.RingRunes = {
     ["Axe Specialization"] = 4,
     ["Dagger Specialization"] = 4,
+    ["Fist Weapon Specialization"] = 4,
     ["Mace Specialization"] = 4,
     ["Polearm Specialization"] = 4,
     ["Sword Specialization"] = 4,
@@ -188,6 +189,7 @@ addon.RingRunes = {
     ["Nature Specialization"] = 4,
     ["Shadow Specialization"] = 4,
     ["Defense Specialization"] = 4,
+    ["Feral Combat Specialization"] = 4,
     ["Healing Specialization"] = 5,
     ["Meditation Specialization"] = 5
 }

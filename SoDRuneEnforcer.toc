@@ -2,7 +2,7 @@
 ## Title: SoD Rune Enforcer
 ## Notes: Enforces rune usage per phase for Season of Discovery raids.
 ## Author: Gemini CLI
-## Version: 1.1
+## Version: 1.4.3
 ## SavedVariables: SoDRuneEnforcerDB
 
 RuneData.lua

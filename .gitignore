@@ -6,3 +6,6 @@ releases/
 # Exclude OS generated files
 .DS_Store
 Thumbs.db
+
+# Exclude local environment secrets
+.env
